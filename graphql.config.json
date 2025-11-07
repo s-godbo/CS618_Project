@@ -1,0 +1,4 @@
+{
+  "schema": "https://improved-space-robot-x5v5rgw546g52pq4j-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
